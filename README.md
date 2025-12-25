@@ -1,16 +1,30 @@
-## Hi there 👋
+👋 Hi, I’m Natukula Chinmai
 
-<!--
-**ChinmaiNatukula/ChinmaiNatukula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*🌱 I’m passionate about AI & ML and Web Development
 
-Here are some ideas to get you started:
+*💻 Currently exploring Flask, MySQL, Java, and Frontend Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*🤝 Always eager to collaborate on innovative and impactful projects
+
+*🚀 Open to working on real-world applications to grow my skills and career
+
+*📫 Reach me at: natukulachinmai@gmail.com
+
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+🛠 Tech Stack
+Programming Languages: Java, Python
+
+Web Development: HTML, CSS, JavaScript,TailwindCSS,JavaScript
+
+AI/ML : machine Learning Algarithms,pandas,numpy,featureengineering
+
+Database: MySQL
+
+Cloud & Dev Tolls: GitHub, VS Code, Eclipse ,Render , netlify
+
+
+
