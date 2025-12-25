@@ -1,5 +1,7 @@
 👋 Hi, I’m Natukula Chinmai
 
+
+
 *🌱 I’m passionate about AI & ML and Web Development
 
 *💻 Currently exploring Flask, MySQL, Java, and Frontend Development
@@ -16,6 +18,7 @@
 
 
 🛠 Tech Stack
+
 Programming Languages: Java, Python
 
 Web Development: HTML, CSS, JavaScript,TailwindCSS,JavaScript
