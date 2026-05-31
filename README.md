@@ -1,59 +1,67 @@
-Hi there, I'm Chinmai Natukula 👋
-🚀 AI/ML Enthusiast | 💻 Full Stack Developer |
+👋 Hi, I'm Natukula Chinmai!
 
+🤖 AI/ML Enthusiast  |  🌐 Full Stack Developer  |  ☕ Java & Spring Boot  |  🐍 Python
+⭐ CGPA 8.48🎓 B.Tech AI&ML 2026🏢 Infosys Intern
+🔭 Building fraud detection systems & AI health assistants
+🌱 Learning advanced ML, Cloud & System Design
+💬 Ask me about Java · Spring Boot · React · ML models
+📫 natukulachinmai@gmail.com  |  📍 Andhra Pradesh, India
+⚡ Fun fact: I also do video editing, photography & dancing!
 
+## 🚀 About Me
 
+🎓 B.Tech in **Artificial Intelligence & Machine Learning** @ QIS College of Engineering and Technology *(2022 – 2026)*
+📍 Andhra Pradesh, India | 💡 CGPA: **8.48**
 
-🌟 About Me
+I'm passionate about combining **intelligent technology** with **impactful design** to build smart, user-centric solutions.
+Whether it's training ML models or crafting full-stack applications — I love turning ideas into reality.
 
-🎓 B.Tech in Artificial Intelligence & Machine Learning
+---
 
-🤖 Passionate about Artificial Intelligence, Machine Learning, NLP, and Intelligent Systems
+## 🛠️ Tech Stack
 
-💻 Full Stack Developer focused on building responsive, scalable, and user-centric applications
+| Domain | Tools & Technologies |
+|---|---|
+| 💻 Languages | Java · Python · JavaScript |
+| 🌐 Web | React.js · HTML · CSS · Tailwind · Bootstrap |
+| 🤖 AI / ML | ML Algorithms · NumPy · Pandas · CNN · Scikit-learn |
+| 🗄️ Backend | Spring Boot · REST APIs · MySQL |
+| ☁️ Tools | Git · GitHub · Netlify · Render · Google Colab · Figma |
 
-☕ Experienced with Java, Spring Boot, REST APIs, MySQL, AngularJS, and modern web technologies
+---
 
-🚀 Building AI-powered solutions that solve real-world problems
+## 💼 Experience
 
-🌱 Currently exploring Generative AI, LLMs, AI Agents, Deep Learning, and Cloud Technologies
+🏢 **Infosys** — Frontend Developer Intern *(Feb – Apr 2026)*
+> Built a Java-based digital banking fraud detection system with ML-powered accuracy using Spring Boot & MySQL.
 
-📈 Continuous Learner focused on growth, innovation, and impactful technology
+---
 
-🎯 Mission: Transforming ideas into intelligent digital experiences
+## 🔥 Featured Projects
 
+🛒 **[E-Commerce Web App](#)**
+> Full-stack shopping platform with user auth, role-based access & cart management.
 
+🏥 **[AI Health Assist](#)**
+> AI-powered health assistant using Python & CNN to predict diseases and suggest precautions.
 
+---
 
-💻 Tech Stack
+## 📜 Certifications
 
-🌐 Web Development
+🏅 Data Science — IBM
+🏅 Programming with Java — Infosys
+🏅 Career Essentials in Generative AI — Microsoft & LinkedIn
+🏅 Python Essentials — Cisco
 
-⚡ HTML5 • CSS3 • JavaScript • React.js • Bootstrap • Tailwind CSS • AngularJS
+---
 
-🤖 AI / ML
+## 📬 Connect with Me
 
-🧠 Python • Machine Learning • Data Preprocessing • Feature Engineering • Model Evaluation • NumPy • Pandas • NLP
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natukulachinmai-131375289)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://natukulachinmaiportfolio.netlify.app/)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:natukulachinmai@gmail.com)
 
-☁️ Backend / Database / Deployment
+---
 
-🚀 Java • Spring Boot • REST APIs • MySQL • Firebase • Netlify • Render
-
-🛠️ Developer Tools & AI Tools
-
-🔧 Git • GitHub • VS Code • Postman • Google Colab • Figma • Canva • ChatGPT
-
-
-
-
-
-
-🏆 Certifications
-
-🏅 IBM Data Science
-
-🏅 Infosys Programming with Java
-
-🏅 Microsoft & LinkedIn Career Essentials in Generative AI
-
-🏅 Cisco Python Essentials
+⭐ *"Transforming ideas into dynamic, intelligent digital experiences — one commit at a time."*
